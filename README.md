@@ -1,20 +1,12 @@
 Angular DateRange Picker
 ---
 
-This date range picker was heavily inspired by PayPal's datepicker as seen on website.
-
-Demo: http://ng-daterangepicker.jankuri.com
+This date range picker is a fork of jkuri's date picker which itself was heavily inspired by PayPal's datepicker as seen on website.
 
 ### Installation
 
 ```sh
-npm install ng-daterangepicker --save
-```
-
-or
-
-```sh
-yarn add ng-daterangepicker --save
+npm install Sasa-Development/ng-daterangepicker --save
 ```
 
 ### Example
